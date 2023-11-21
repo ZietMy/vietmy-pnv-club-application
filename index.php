@@ -75,8 +75,8 @@
                     <option value="" disabled selected>Select option</option>
                     <option value="Robotic Club" >Robotic Club</option>
                     <option value="Music Club">Music Club</option>
-                    <option value="Front-end Club">Eat Club</option>
-                    <option value="Back-end Club">Drink  Club</option>
+                    <option value="Eat Club">Eat Club</option>
+                    <option value="Drink Club">Drink  Club</option>
                 </select>
             </div>
         
